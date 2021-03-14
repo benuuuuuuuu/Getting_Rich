@@ -12,9 +12,6 @@ LIU Qinlei, LU Meiqi, U Chi Lai, YAO Yao
 Overview
 All codes should at least run after preprocessing. Some codes could be run after preprocessing_total.py, but some need to run after 7012_data_handling_improved-v2-upload.ipynb if the code used stock price.
  
-Data Link:
-https://drive.google.com/drive/folders/1aLXluUmfcdoISOrsJjC0Pl5AqHAep65F?usp=sharing
- 
 Preprocess -> [Self_built_dict, Count Based Model, Sentiment Analysis, Topic Modelling, Word2Vector] -> Modelling
 
 How to Read and Run the Codes:
